@@ -1,57 +1,64 @@
-# Hi there, I'm Utkarsh Pandey! 👋 
-### 📊 Product & Data Analyst | Dashboard & Reporting Specialist
+<h1 align="center">⚡ UTKARSH PANDEY ⚡</h1>
+<h3 align="center">🚀 Product & Data Analyst | Dashboard & Reporting Specialist</h3>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-green?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/github/followers/hiutkarshhere?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-%E2%9A%A1%20Open%20To%20Work-00E676?style=for-the-badge&logo=workplace&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Location-Lucknow%2C%20IN-00B0FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/github/followers/hiutkarshhere?label=Network&style=for-the-badge&color=7C4DFF&logo=github" alt="Followers" />
 </p>
 
-I leverage SQL, Python, and advanced Business Intelligence tools to turn chaotic, raw datasets into clean, actionable business decisions. Driven by data, structural discipline, and robust reporting metrics.
+<p align="center">
+  <strong>Transforming chaotic, raw multi-dimensional datasets into clean, actionable, high-impact business infrastructure. Driven by rigorous analytical structure, operational discipline, and robust reporting metrics.</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=header&text=DATA%20ECOSYSTEM&fontSize=25&fontColor=00E676&animation=twinkling" width="100%" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tooling
+## 🛠️ Tech Stack & Arsenal
 
-### 🐍 Data Analysis & Scripting
+### 🐍 Advanced Scripting & Data Engineering
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=F8F8F2" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 ### 📊 Business Intelligence & Visualization
 <p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-## 📈 My Live GitHub Ecosystem
+## 🎮 Live Analytics & Gamified Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiutkarshhere&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" width="48%" alt="Utkarsh's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiutkarshhere&layout=compact&theme=tokyonight&hide_border=false" width="48%" alt="Utkarsh's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hiutkarshhere&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiutkarshhere&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiutkarshhere&theme=tokyonight&hide_border=false" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiutkarshhere&theme=tokyonight&hide_border=false" width="97%" alt="Commit Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hiutkarshhere&theme=tokyonight&column=4&margin-w=15&no-bg=false&no-frame=false" width="97%" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 📂 Featured Portfolios & Quick Links
-> 💡 **Looking for my credentials?** You can review my professional **[Data Analyst Resume (PDF)](https://github.com/hiutkarshhere/Utkarsh_RESUME/blob/main/Analyst-Utkarsh.pdf)** right here on GitHub.
+## 📂 Production Repositories & Portfolios
 
-* 🖥️ **SQL Projects:** [Exploratory Data Analysis & Data Cleaning Hub](https://github.com/hiutkarshhere/SQL-Projects)
-* 📉 **Power BI Dashboards:** [Interactive Reporting & HR Analytics](https://github.com/hiutkarshhere/PowerBI-Projects)
-* 📦 **Python Workflows:** [Advanced Data Manipulations with Pandas & NumPy](https://github.com/hiutkarshhere/Python-Projects)
+> 📂 **VETTING CREDENTIALS:** You can access my verified professional **[Data Analyst Resume (PDF) 📄](https://github.com/hiutkarshhere/Utkarsh_RESUME/blob/main/Analyst-Utkarsh.pdf)** directly on GitHub.
 
----
-
-## 🔗 Let's Connect & Collaborate
-* 💼 **LinkedIn:** [linkedin.com/in/utkarsh-pandey404](https://linkedin.com/in/utkarsh-pandey404)
-* 💡 **LeetCode:** [leetcode.com/u/utkarsh2code](https://leetcode.com/u/utkarsh2code)
-* 📧 **Email:** hiutkarshhere@gmail.com
+```📊 DATA ARCHIVE
+├── 🖥️ SQL-Projects      → Exploratory Data Analysis & Advanced Data Cleaning Workflows
+├── 📉 PowerBI-Projects  → Interactive Executive Dashboards, HR Analytics & Reporting Hubs
+├── 📦 Python-Projects   → Matrix Transformations, Data Wrangling & Algorithmic Pipelines
+└── 🧪 Excel-Projects    → Dynamic Corporate Modeling, Pivot Deployments & Visualizations

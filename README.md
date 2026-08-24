@@ -28,47 +28,65 @@ Product Analyst with **9 months of internship experience** in funnels, retention
 
 ## 🚀 Product Analytics Case Studies
 
-<table align="center">
+<table width="100%">
 <tr>
-<td width="50%">
-<a href="https://github.com/hiutkarshhere/PayFlow-UPI-Product-Analytics">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hiutkarshhere&repo=PayFlow-UPI-Product-Analytics&bg_color=0D1117&title_color=0891B2&icon_color=0891B2&text_color=E6EDF3&border_color=315C9A" />
-</a>
-<div align="center"><sub><b>+7.29pp activation lift (p&lt;0.00001) — shipped to 100% of traffic</b></sub></div>
+<td width="50%" valign="top">
+
+**[PayFlow — UPI Product Analytics](https://github.com/hiutkarshhere/PayFlow-UPI-Product-Analytics)**
+
+<img src="https://img.shields.io/badge/Python-315C9A?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/A%2FB_Testing-0891B2?style=flat-square"/>
+
+**+7.29pp activation lift (p<0.00001) — shipped to 100% of traffic**
+
 </td>
-<td width="50%">
-<a href="https://github.com/hiutkarshhere/QuickDash-Darkstore-Ops-Analytics">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hiutkarshhere&repo=QuickDash-Darkstore-Ops-Analytics&bg_color=0D1117&title_color=0891B2&icon_color=0891B2&text_color=E6EDF3&border_color=315C9A" />
-</a>
-<div align="center"><sub><b>1.78-min delivery-time cut via Difference-in-Differences</b></sub></div>
+<td width="50%" valign="top">
+
+**[QuickDash — Dark-Store Ops Analytics](https://github.com/hiutkarshhere/QuickDash-Darkstore-Ops-Analytics)**
+
+<img src="https://img.shields.io/badge/Python-315C9A?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/DiD-0891B2?style=flat-square"/>
+
+**1.78-min delivery-time cut via Difference-in-Differences**
+
 </td>
 </tr>
 <tr>
-<td width="50%">
-<a href="https://github.com/hiutkarshhere/Mela-Marketplace-Seller-Analytics">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hiutkarshhere&repo=Mela-Marketplace-Seller-Analytics&bg_color=0D1117&title_color=0891B2&icon_color=0891B2&text_color=E6EDF3&border_color=315C9A" />
-</a>
-<div align="center"><sub><b>WOE/IV churn scorecard — 9.5% vs 0% churn by risk tier</b></sub></div>
+<td width="50%" valign="top">
+
+**[Mela — Marketplace Seller Analytics](https://github.com/hiutkarshhere/Mela-Marketplace-Seller-Analytics)**
+
+<img src="https://img.shields.io/badge/Python-315C9A?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/WOE%2FIV-0891B2?style=flat-square"/>
+
+**WOE/IV churn scorecard — 9.5% vs 0% churn by risk tier**
+
 </td>
-<td width="50%">
-<a href="https://github.com/hiutkarshhere/Nivesh-Investing-Product-Analytics">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hiutkarshhere&repo=Nivesh-Investing-Product-Analytics&bg_color=0D1117&title_color=0891B2&icon_color=0891B2&text_color=E6EDF3&border_color=315C9A" />
-</a>
-<div align="center"><sub><b>Isolated risk-segment behavior during a market correction</b></sub></div>
+<td width="50%" valign="top">
+
+**[Nivesh — Investing Product Analytics](https://github.com/hiutkarshhere/Nivesh-Investing-Product-Analytics)**
+
+<img src="https://img.shields.io/badge/Python-315C9A?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Event_Study-0891B2?style=flat-square"/>
+
+**Isolated risk-segment behavior during a market correction**
+
 </td>
 </tr>
 <tr>
-<td width="50%">
-<a href="https://github.com/hiutkarshhere/flowboard-saas-analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hiutkarshhere&repo=flowboard-saas-analysis&bg_color=0D1117&title_color=0891B2&icon_color=0891B2&text_color=E6EDF3&border_color=315C9A" />
-</a>
-<div align="center"><sub><b>Randomized pricing experiment across 966 SaaS companies</b></sub></div>
+<td width="50%" valign="top">
+
+**[FlowBoard — SaaS Pricing Experiment](https://github.com/hiutkarshhere/flowboard-saas-analysis)**
+
+<img src="https://img.shields.io/badge/Jupyter-315C9A?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Randomized_Experiment-0891B2?style=flat-square"/>
+
+**Randomized pricing experiment across 966 SaaS companies**
+
 </td>
-<td width="50%">
-<a href="https://github.com/hiutkarshhere/quickride-marketplace-analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hiutkarshhere&repo=quickride-marketplace-analysis&bg_color=0D1117&title_color=0891B2&icon_color=0891B2&text_color=E6EDF3&border_color=315C9A" />
-</a>
-<div align="center"><sub><b>DiD on a real regulatory ban, using surge as a natural control</b></sub></div>
+<td width="50%" valign="top">
+
+**[QuickRide — Marketplace & Regulatory Impact](https://github.com/hiutkarshhere/quickride-marketplace-analysis)**
+
+<img src="https://img.shields.io/badge/Jupyter-315C9A?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/DiD-0891B2?style=flat-square"/>
+
+**DiD on a real regulatory ban, using surge as a natural control**
+
 </td>
 </tr>
 </table>
@@ -99,8 +117,17 @@ Product Analyst with **9 months of internship experience** in funnels, retention
 ## 📈 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hiutkarshhere&show_icons=true&bg_color=0D1117&title_color=0891B2&icon_color=0891B2&text_color=E6EDF3&border_color=315C9A&hide_border=false" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiutkarshhere&layout=compact&bg_color=0D1117&title_color=0891B2&text_color=E6EDF3&border_color=315C9A&hide_border=false" width="35%"/>
+
+<img src="https://img.shields.io/badge/Public_Repositories-16-315C9A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Case_Studies-6-0891B2?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-315C9A?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-315C9A?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter_Notebook-315C9A?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-315C9A?style=flat-square&logo=powerbi&logoColor=white"/>
+
 </div>
 
 <br/>

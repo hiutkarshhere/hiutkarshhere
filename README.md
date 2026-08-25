@@ -1,3 +1,4 @@
+![Utkarsh Pandey Header](social-preview.png)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:315C9A,100:0891B2&height=200&section=header&text=Utkarsh%20Pandey&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" alt="Utkarsh Pandey — animated header banner"/>

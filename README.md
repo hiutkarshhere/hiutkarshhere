@@ -1,5 +1,3 @@
-<img width="1280" height="640" alt="social-preview" src="https://github.com/user-attachments/assets/1623c364-8282-43ec-8dca-8b96f8157bb2" />
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:315C9A,100:0891B2&height=200&section=header&text=Utkarsh%20Pandey&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" alt="Utkarsh Pandey — animated header banner"/>
